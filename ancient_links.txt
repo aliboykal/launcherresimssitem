@@ -2,6 +2,7 @@ Mod=https://www.dropbox.com/scl/fi/jwikrg86y4i5s7i9mzqth/modlar.zip?rlkey=o8ndl6
 Ancient=https://www.dropbox.com/scl/fi/o0j2jy8mmlfc5abv3zxfz/ancient.zip?rlkey=hv2evlggq65kqkc0jv8rsdlhl&st=azc14knd&dl=1
 Resimler=https://www.dropbox.com/scl/fi/yqyok978smg6v4z7y426h/resimler.zip?rlkey=etvtckjk866atf9kmhn4ij5xu&st=2uoruezb&dl=1
 Fabric=https://www.dropbox.com/scl/fi/3rdrdcb9x0x030xfqx38i/fabric.zip?rlkey=5c9hdeze1f77fmlroib6chdqh&st=l9wrkgjq&dl=1
+Fancy=https://www.dropbox.com/scl/fi/5v1u04w1r06531u8roq0g/fancymenu.zip?rlkey=0j2z78ydr1by42hqm0yrbmod6&st=bf5xg4ht&dl=1
 
 
 
