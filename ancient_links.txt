@@ -1,8 +1,9 @@
-Mod=https://download1076.mediafire.com/zzngoofpr4vgqcalu11WPcuJCYaebZs1M1GlIkEDVtWWWKg1P1JPCWyReHH84rVWSybSdNPUWhYxJQytA5j9R4f_9LZBWH4mgpo32HHiwijRSX0x8J7dy6IBNplfkv0aQSH2_fOY9tToY_HVIH-fLj4OKUb0ysX0LMPnbOW4njAJkgI/q7jgczare1371tt/modlar.zip
-Ancient=https://download1529.mediafire.com/z84sbiejafygblGuftrLT_UUpY1vKpG3048iTvwu27Q4XrplvzXKOLppPqx49k7NPsVD9C1yi2gvflKNARcOxv5ZimFTbGYkUddRj0hiW-fPc79_55d0sApaGHfTvbj5y5dduJcnybdszHMWhUzMFxxT-s1EOmt0De7aoBFvIKDnQ7c/g23qht7j8fupmpq/ancient.zip
+Mod=https://www.dropbox.com/scl/fi/jwikrg86y4i5s7i9mzqth/modlar.zip?rlkey=o8ndl6q2iceh521pvxkhfb0j3&st=4yi04oy7&dl=1
+Ancient=https://www.dropbox.com/scl/fi/o0j2jy8mmlfc5abv3zxfz/ancient.zip?rlkey=hv2evlggq65kqkc0jv8rsdlhl&st=1mt1jwll&dl=1
 Resimler=https://www.dropbox.com/scl/fi/yqyok978smg6v4z7y426h/resimler.zip?rlkey=etvtckjk866atf9kmhn4ij5xu&st=2uoruezb&dl=1
-Fabric=https://download1586.mediafire.com/um3a1xc6jyugYnZNUyMKFk46URlT4M8Jm6qM7WZGgIKAf4BNGmGA5e1AgnVZodX9OwEj-iIVw5qzWzLvAqU7iatRxmBv47heLFvXmhXeY7RMqKR9pNe_voIrRheThv7xXYrsqXZIrEMkertFfQgtuy8DLTbWtQR-4kVrE_Eto6e9vY0/osfza0m2wbc8mj6/fabric.zip
-Fancy=https://download1530.mediafire.com/y7iq6hg7doxgj5U6_AHEbfvmEwuu1UeL4nS2ph_PP4lv7PNTBjcFeIPyyd3-P38tBCxGDYhthaj0CRPGTpHQZgRuFWyDEpbG3_69mPWwby3uwk47VYlD2RAMxBYzCmsuJ6pLrnoSA2-KkNDJVamK3JMDqTBJPrSXWNWyIBR9d2FkaGY/tzea4a84yc766s8/fancymenu.zip
+Fabric=https://www.dropbox.com/scl/fi/3rdrdcb9x0x030xfqx38i/fabric.zip?rlkey=5c9hdeze1f77fmlroib6chdqh&st=b2bu4ncp&dl=1
+Fancy=https://www.dropbox.com/scl/fi/5v1u04w1r06531u8roq0g/fancymenu.zip?rlkey=0j2z78ydr1by42hqm0yrbmod6&st=6ned1kzs&dl=1
+
 
 
 
