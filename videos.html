@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Video</title>
+    <title>Video Player</title>
     <style>
         html, body {
             margin: 0;
@@ -23,7 +23,16 @@
     </style>
 </head>
 <body>
-    <iframe src="https://www.youtube.com/embed/K4Ad2MXKLv8?autoplay=1&mute=0&controls=0&fs=1&modestbranding=1&rel=0"
-            allow="autoplay; fullscreen" allowfullscreen></iframe>
+    <iframe 
+        src="https://www.youtube.com/embed/K4Ad2MXKLv8?autoplay=1&mute=0&controls=1&rel=0&modestbranding=1" 
+        allow="autoplay; fullscreen" 
+        allowfullscreen>
+    </iframe>
+
+    <script>
+        // Eğer tarayıcı autoplay engellerse JS ile tetikleme
+        const iframe = document.querySelector('iframe');
+        iframe.contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
+    </script>
 </body>
 </html>
