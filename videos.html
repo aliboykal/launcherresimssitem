@@ -34,7 +34,8 @@
                     rel: 0,
                     fs: 1,
                     enablejsapi: 1,
-                    mute: 0
+                    mute: 0,
+                    origin: window.location.origin // <<< burası eklendi
                 },
                 events: {
                     onReady: function(event) {
@@ -46,7 +47,6 @@
         }
 
         // === JS Fonksiyonları - C# WebView2'den çağrılabilir ===
-
         function playVideo() {
             if (player) player.playVideo();
         }
@@ -75,7 +75,6 @@
         }
 
         // === Ses kontrol fonksiyonları ===
-
         function setVolume(level) {
             // level: 0 - 100 arası
             if (player) {
