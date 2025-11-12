@@ -1,12 +1,16 @@
 {
   "haberler": [
     {
-      "image": "https://i.pinimg.com/1200x/d4/ef/88/d4ef880a7fd84c7e6a7ef52545912e3a.jpg",
-      "link": "https://hypixel.net/"
+      "image": "https://fxes.net/assets/core/images/blog/posts/d3d7da007c2fb52ecce86b0e5c31700b.png",
+      "link": "https://fxes.net/blog/posts/sesli-sohbet/"
     },
     {
-      "image": "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?cs=srgb&dl=pexels-simon73-1323550.jpg&fm=jpg",
-      "link": "https://hypixel.net/threads/duels-v1-5-2-bed-wars-duels-maps-changes.5988603/"
+      "image": "https://fxes.net/assets/core/images/blog/posts/1bd243efbf084dc4d238017caab3a8aa.png",
+      "link": "https://fxes.net/blog/posts/guncellemeler/"
+    },
+    {
+      "image": "https://fxes.net/assets/core/images/blog/posts/31ca310cd57b90c540e522bbd5826960.png",
+      "link": "https://fxes.net/blog/posts/yetkili-basvurulari-aktif/"
     }
   ]
 }
