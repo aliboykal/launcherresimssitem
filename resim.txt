@@ -1,2 +1,2 @@
-Icon: https://raw.githubusercontent.com/aliboykal/launcherresimssitem/refs/heads/main/minecraft_title.ico
+Icon: https://raw.githubusercontent.com/aliboykal/launcherresimssitem/refs/heads/main/favicon.ico
 Logo: https://i.hizliresim.com/3dm10a2.png
