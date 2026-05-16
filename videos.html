@@ -5,12 +5,7 @@
     <title>YouTube Player</title>
     <style>
         html, body, #player {
-            margin:0; 
-            padding:0; 
-            height:100%; 
-            width:100%; 
-            overflow:hidden; 
-            background:black;
+            margin:0; padding:0; height:100%; width:100%; overflow:hidden; background:black;
         }
     </style>
 </head>
@@ -34,13 +29,13 @@
                 videoId: 'K4Ad2MXKLv8', // Oynatılacak video ID
                 playerVars: {
                     autoplay: 1,
-                    controls: 1,        // Oynat/Durdur ve bar butonlarını görünür ve tıklanabilir yaptık
-                    modestbranding: 0,  // YouTube logosunu geri getirdik (tıklayıp kanala gidebilmeleri için)
+                    controls: 0,
+                    modestbranding: 1,
                     rel: 0,
                     fs: 1,
                     enablejsapi: 1,
                     mute: 0,
-                    origin: 'https://launcher.yerel' // C# WebView2'de tanımladığımız sanal domain
+                    origin: window.location.origin // <<< burası eklendi
                 },
                 events: {
                     onReady: function(event) {
@@ -51,7 +46,7 @@
             });
         }
 
-        // === JS Fonksiyonları - C# WebView2'den (Guna2 butonlarından) çağrılmaya devam edebilir ===
+        // === JS Fonksiyonları - C# WebView2'den çağrılabilir ===
         function playVideo() {
             if (player) player.playVideo();
         }
@@ -81,6 +76,7 @@
 
         // === Ses kontrol fonksiyonları ===
         function setVolume(level) {
+            // level: 0 - 100 arası
             if (player) {
                 player.setVolume(level);
                 if (player.isMuted() && level > 0) {
